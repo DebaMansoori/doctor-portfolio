@@ -1,0 +1,9 @@
+node_modules
+dist
+.vite
+.vercel
+*.local
+.DS_Store
+.env
+npm-debug.log*
+vibe_images
